@@ -1,0 +1,6 @@
+console.log("hello world")
+console.log("Namaste duniya")
+console.log(2*3+5)
+console.log(2*4/4)
+console.log("dhanu"+234)
+console.log(123+"45")
